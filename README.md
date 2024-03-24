@@ -1,2 +1,3 @@
 # portfolio-ideas
-This is a ideas for develope portfolio idesd
+This is a ideas for develope portfolio ideas
+
